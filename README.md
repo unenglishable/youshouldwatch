@@ -17,6 +17,9 @@ Increase your pop culture knowledge by watching these movies - the movies that f
 * [Tron (1982)](http://www.imdb.com/title/tt0084827/)
 * [The Dark Crystal (1982)](http://www.imdb.com/title/tt0083791/)
 
+## Fantasy
+* [Heavy Metal](http://www.imdb.com/title/tt0082509/?ref_=nv_sr_1)
+
 
 ## Drama
 * [Flashdance (1983)](http://www.imdb.com/title/tt0085549/?ref_=fn_al_tt_1)
