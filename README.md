@@ -41,6 +41,7 @@ Increase your pop culture knowledge by watching these movies - the movies that f
 * [The Goonies (1985)](http://www.imdb.com/title/tt0089218/?ref_=nv_sr_1)
 * [The Princess Bride (1987)](http://www.imdb.com/title/tt0093779/?ref_=nv_sr_1)
 * [Big Trouble in Little China (1986)](http://www.imdb.com/title/tt0090728/)
+* [Zoolander (2001)](http://www.imdb.com/title/tt0196229/)
 
 ## Action
 * [Boondock Saints (1999)](http://www.imdb.com/title/tt0144117/)
