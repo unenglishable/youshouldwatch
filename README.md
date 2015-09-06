@@ -67,4 +67,5 @@ Increase your pop culture knowledge by watching these movies - the movies that f
 
 
 ## WHERE DO I PUT THESE
-* [Pulp Fiction (1994)](http://www.imdb.com/title/tt0110912/)
+* ~~[Pulp Fiction (1994)](http://www.imdb.com/title/tt0110912/)~~
+* ~~Sin City (2005, 2014)~~
