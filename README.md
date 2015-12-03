@@ -39,6 +39,7 @@ Increase your pop culture knowledge by watching these movies - the movies that f
 * [The Graduate](http://www.imdb.com/title/tt0061722)
 * [The Hustler](http://www.imdb.com/title/tt0054997/)
 * [The Color of Money](http://www.imdb.com/title/tt0090863/)
+* [Butch Cassidy and the Sundance Kid](http://www.imdb.com/title/tt0064115/)
 
 ### Historical Drama
 * [Ran](http://www.imdb.com/title/tt0089881)
