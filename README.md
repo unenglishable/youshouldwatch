@@ -37,6 +37,8 @@ Increase your pop culture knowledge by watching these movies - the movies that f
 * [Risky Business (1983)](http://www.imdb.com/title/tt0086200/)
 * [Million Dollar Baby](http://www.imdb.com/title/tt0064115)
 * [The Graduate](http://www.imdb.com/title/tt0061722)
+* [The Hustler](http://www.imdb.com/title/tt0054997/)
+* [The Color of Money](http://www.imdb.com/title/tt0090863/)
 
 ### Historical Drama
 * [Ran](http://www.imdb.com/title/tt0089881)
