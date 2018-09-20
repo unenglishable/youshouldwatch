@@ -19,7 +19,7 @@ Increase your pop culture knowledge by watching these movies - the movies that f
 * [Tron (1982)](http://www.imdb.com/title/tt0084827/)
 * [The Dark Crystal (1982)](http://www.imdb.com/title/tt0083791/)
 * [The Fifth Element (1997)](http://www.imdb.com/title/tt0119116/)
-* [War Games (1983)](http://www.imdb.com/title/tt0086567/)
+* ~~[War Games (1983)](http://www.imdb.com/title/tt0086567/)~~
 * [Twelve Monkeys](http://www.imdb.com/title/tt0114746)
 
 ## Fantasy
