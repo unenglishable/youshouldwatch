@@ -33,7 +33,7 @@ Increase your pop culture knowledge by watching these movies - the movies that f
 * [Footloose (1984)](http://www.imdb.com/title/tt0087277/?ref_=tt_rec_tt)
 * [Sixteen Candles (1984)](http://www.imdb.com/title/tt0088128/?ref_=nv_sr_1)
 * [Say Anything (1989)](http://www.imdb.com/title/tt0098258/?ref_=nv_sr_1)
-* [Dead Poet's Society (1989)](http://www.imdb.com/title/tt0097165/)
+* ~~[Dead Poet's Society (1989)](http://www.imdb.com/title/tt0097165/)~~
 * [Heathers (1988)](http://www.imdb.com/title/tt0097493/)
 * [Risky Business (1983)](http://www.imdb.com/title/tt0086200/)
 * [Million Dollar Baby](http://www.imdb.com/title/tt0064115)
