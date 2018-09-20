@@ -20,12 +20,15 @@ Increase your pop culture knowledge by watching these movies - the movies that f
 * [The Dark Crystal (1982)](http://www.imdb.com/title/tt0083791/)
 * [The Fifth Element (1997)](http://www.imdb.com/title/tt0119116/)
 * [War Games (1983)](http://www.imdb.com/title/tt0086567/)
+* [Twelve Monkeys](http://www.imdb.com/title/tt0114746)
 
 ## Fantasy
 * [Heavy Metal](http://www.imdb.com/title/tt0082509/?ref_=nv_sr_1)
+* [Dreams (Akira Kurosawa)](http://www.imdb.com/title/tt0100998)
 
 
 ## Drama
+* [Purple Rain](http://www.imdb.com/title/tt0087957/?ref_=fn_al_tt_1)
 * [Flashdance (1983)](http://www.imdb.com/title/tt0085549/?ref_=fn_al_tt_1)
 * [Footloose (1984)](http://www.imdb.com/title/tt0087277/?ref_=tt_rec_tt)
 * [Sixteen Candles (1984)](http://www.imdb.com/title/tt0088128/?ref_=nv_sr_1)
@@ -33,6 +36,14 @@ Increase your pop culture knowledge by watching these movies - the movies that f
 * [Dead Poet's Society (1989)](http://www.imdb.com/title/tt0097165/)
 * [Heathers (1988)](http://www.imdb.com/title/tt0097493/)
 * [Risky Business (1983)](http://www.imdb.com/title/tt0086200/)
+* [Million Dollar Baby](http://www.imdb.com/title/tt0064115)
+* [The Graduate](http://www.imdb.com/title/tt0061722)
+* [The Hustler](http://www.imdb.com/title/tt0054997/)
+* [The Color of Money](http://www.imdb.com/title/tt0090863/)
+* [Butch Cassidy and the Sundance Kid](http://www.imdb.com/title/tt0064115/)
+
+### Historical Drama
+* [Ran](http://www.imdb.com/title/tt0089881)
 
 
 ## Comedy
@@ -64,8 +75,12 @@ Increase your pop culture knowledge by watching these movies - the movies that f
 * [Risky Business (1983)](http://www.imdb.com/title/tt0086200)
 * [Top Gun (1986)](http://www.imdb.com/title/tt0092099/)
 * [True Lies (1994)](http://www.imdb.com/title/tt0111503/)
+* [Leon, The Professional](http://www.imdb.com/title/tt0110413/)
+* [Old Boy (2003)](http://www.imdb.com/title/tt0364569/)
+* [Heat](http://www.imdb.com/title/tt0113277/)
 
 
 ## WHERE DO I PUT THESE
 * ~~[Pulp Fiction (1994)](http://www.imdb.com/title/tt0110912/)~~
 * ~~Sin City (2005, 2014)~~
+* [Snatch](http://www.imdb.com/title/tt0208092/)
