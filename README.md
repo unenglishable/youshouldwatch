@@ -28,7 +28,7 @@ Increase your pop culture knowledge by watching these movies - the movies that f
 
 
 ## Drama
-* [Purple Rain](http://www.imdb.com/title/tt0087957/?ref_=fn_al_tt_1)
+* ~~[Purple Rain](http://www.imdb.com/title/tt0087957/?ref_=fn_al_tt_1)~~
 * [Flashdance (1983)](http://www.imdb.com/title/tt0085549/?ref_=fn_al_tt_1)
 * [Footloose (1984)](http://www.imdb.com/title/tt0087277/?ref_=tt_rec_tt)
 * [Sixteen Candles (1984)](http://www.imdb.com/title/tt0088128/?ref_=nv_sr_1)
