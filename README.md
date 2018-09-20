@@ -75,7 +75,7 @@ Increase your pop culture knowledge by watching these movies - the movies that f
 * [Risky Business (1983)](http://www.imdb.com/title/tt0086200)
 * [Top Gun (1986)](http://www.imdb.com/title/tt0092099/)
 * [True Lies (1994)](http://www.imdb.com/title/tt0111503/)
-* [Leon, The Professional](http://www.imdb.com/title/tt0110413/)
+* ~~[Leon, The Professional](http://www.imdb.com/title/tt0110413/)~~
 * [Old Boy (2003)](http://www.imdb.com/title/tt0364569/)
 * [Heat](http://www.imdb.com/title/tt0113277/)
 
