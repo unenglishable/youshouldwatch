@@ -9,7 +9,7 @@ Increase your pop culture knowledge by watching these movies - the movies that f
 * Alien Series
   * [Alien (1979)](http://www.imdb.com/title/tt0078748/?ref_=tt_rec_tti)
   * [Aliens (1986)](http://www.imdb.com/title/tt0090605/?ref_=tt_rec_tt)
-* [The Crow (1994)](http://www.imdb.com/title/tt0109506/?ref_=fn_al_tt_1)
+* ~~[The Crow (1994)](http://www.imdb.com/title/tt0109506/?ref_=fn_al_tt_1)~~
 * [The Terminator (1984)](http://www.imdb.com/title/tt0088247/)
 * [Terminator 2: Judgement Day (1991)](http://www.imdb.com/title/tt0103064/)
 * [The Lost Boys (1987)](http://www.imdb.com/title/tt0093437/?ref_=fn_al_tt_1)
